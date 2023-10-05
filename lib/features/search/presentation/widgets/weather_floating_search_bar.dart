@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:material_floating_search_bar/material_floating_search_bar.dart';
+import 'package:material_floating_search_bar_2/material_floating_search_bar_2.dart';
+
 import 'package:weather_app/features/global/sizes/app_sizes.dart';
 import 'package:weather_app/features/global/widgets/loading_indicator.dart';
 import 'package:weather_app/features/home/presentation/state/cubit/weather_cubit.dart';

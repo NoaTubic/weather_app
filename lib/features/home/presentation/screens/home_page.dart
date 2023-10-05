@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:material_floating_search_bar/material_floating_search_bar.dart';
+import 'package:material_floating_search_bar_2/material_floating_search_bar_2.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
 import 'package:weather_app/domain/failure/failure.dart';
 import 'package:weather_app/features/global/sizes/app_sizes.dart';
